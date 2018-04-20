@@ -1,0 +1,6 @@
+framework module Pods_SwiftFileShareTests {
+  umbrella header "Pods-SwiftFileShareTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
